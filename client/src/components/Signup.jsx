@@ -1,6 +1,12 @@
 import "./Signup.css";
 
+
 const Signup = () => {
+
+
+
+
+
   return (
     <div className="container-signup">
       <div className="form-box">
